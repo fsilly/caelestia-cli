@@ -32,7 +32,7 @@ secondary 790e9d
 onSecondary 312e44
 secondaryContainer 48445b
 onSecondaryContainer b7b1ce
-tertiary 51bec2
+tertiary 45a5d5
 onTertiary 501d41
 tertiaryContainer be7ca5
 onTertiaryContainer 000000

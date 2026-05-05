@@ -32,7 +32,7 @@ secondary ##9e6da6#eec1f5#f481ed#7296c4#b1c7a5#e789b7#712d5b#6b3158#8e1265#790e9
 onSecondary #312e44
 secondaryContainer #48445b
 onSecondaryContainer #b7b1ce
-tertiary #ad1f6d#fc48f0#a3d9ba#86b49e#de5f84#cd64aa#c660a4#51bec2#
+tertiary #ad1f6d#fc48f0#a3d9ba#86b49e#de5f84#cd64aa#c660a4#51bec2##45a5d5
 onTertiary #501d41
 tertiaryContainer #be7ca5
 onTertiaryContainer #000000
